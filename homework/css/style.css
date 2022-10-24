@@ -73,3 +73,27 @@ header a{
     padding: 14px 80px;
     border: 3px solid white;
 }
+.scarf{
+    background-color: white;
+    min-height: 347px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 0 45px;
+    gap: 100px;
+}
+.scarf h2{
+    width: 50%;
+    font-weight: 400;
+    font-size: 18px;
+}
+.scarf p{
+    width: 50%;
+    font-size: 12px;
+}
+.scarf b{
+    font-weight: 600;
+}
+main{
+    background-color: #F3F3F3;
+}

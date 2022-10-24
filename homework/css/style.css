@@ -2,3 +2,20 @@
     box-sizing: border-box;
 }
 
+body{
+    margin: 0;
+    width: 100%;
+}
+h1,h2,h3,p{
+    margin: 0;
+}
+img{
+    display: block;
+    max-width: 100%;
+}
+header{
+    background-image: url(/homework/img/apples.jpg);
+    min-height: 734px;
+    background-position: center;
+    background-repeat: no-repeat;
+}

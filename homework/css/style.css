@@ -20,7 +20,7 @@ li{
     display: inline-block;
 }
 header{
-    background-image: url(/homework/img/apples.jpg);
+    background-image: url(../img/apples.jpg);
     min-height: 734px;
     background-position: center;
     background-repeat: no-repeat;
